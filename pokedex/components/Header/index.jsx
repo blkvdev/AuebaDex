@@ -30,5 +30,3 @@ export default function header({title, back = false}) {
     </View>
   );
 }
-
-const styles = StyleSheet.create({})
