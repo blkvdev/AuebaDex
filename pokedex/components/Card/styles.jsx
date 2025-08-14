@@ -8,33 +8,33 @@ export const styles = StyleSheet.create ({
         height: 120,
         elevation: 8,
         marginVertical: 15,
-        cursor: 'pointer',
+        cursor: 'pointer'
     },
     info: {
         flex: 0.7,
         marginLeft: 20,
-        marginTop: 14,
+        marginTop: 14
     },
     numero: {
         fontSize: 18,
-        fontWeight: 'bold',
+        fontWeight: 'bold'
     },
     nome: {
         fontSize: 20,
         color: '#fff',
         fontWeight: '800',
-        marginBottom: 5,
+        marginBottom: 5
     },
     imageContainer: {
         flex: 0.3,
         justifyContent: 'center',
-        alignItems: 'center',
+        alignItems: 'center'
     },
     imagem: {
         width: 140,
         height: 140,
         right: 10,
         position: 'absolute',
-        top: -20,
+        top: -20
     },
-})
+});
