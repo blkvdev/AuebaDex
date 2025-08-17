@@ -1,6 +1,6 @@
 import { StyleSheet } from "react-native";
 
-export const styles = StyleSheet.create ({
+export const styles = StyleSheet.create({
     button: {
         justifyContent: "center",
         alignItems: "center",
@@ -11,4 +11,4 @@ export const styles = StyleSheet.create ({
         color: "#fff",
         fontWeight: "bold",
     }
-})
+});
